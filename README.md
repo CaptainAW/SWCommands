@@ -7,4 +7,4 @@ The controller layer is implemented through a command structure consisting of en
  - AsyncCommand: command, that takes some time to complete.
  - MacroCommand: a command can consist of a set of other commands of any type, including synchronous, asynchronous and macro.
 
-Based on the Zenject DI framework.
+Based on the <a href="https://github.com/modesttree/Zenject">Zenject</a> DI framework.
